@@ -12,7 +12,7 @@
 ![No install](https://img.shields.io/badge/install-not%20needed-ffd23f.svg)
 ![Made for teachers](https://img.shields.io/badge/made%20for-teachers-1877f2.svg)
 
-**[▶ অনলাইনে চালান (Live Demo)](https://tariqulislam4015.github.io/tis-likhon-studio/)**
+<a href="https://tariqulislam4015.github.io/tis-likhon-studio/"><img src="https://img.shields.io/badge/%F0%9F%94%B4%20LIVE-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%20%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81%20%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8-38c97f?style=for-the-badge&labelColor=d91e18" height="44" alt="LIVE — অ্যাপ চালু করুন"></a>
 
 <img src="docs/screenshot-app.png" alt="TIS Likhon Studio screenshot" width="900">
 
