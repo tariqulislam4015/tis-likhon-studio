@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Exported videos & project files (keep them out of the repo)
+*.mp4
+*.webm
+*.likhon.json
+exports/
